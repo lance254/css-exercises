@@ -1,0 +1,19 @@
+.number {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.third {
+    font-size: 24px;
+}
+#lorem {
+    color: blue;
+    font-size: 36px;
+}
+
+#ipsum {
+    background-color: lime;
+    font-weight: bold;
+}
+
+
